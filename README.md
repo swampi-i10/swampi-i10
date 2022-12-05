@@ -1,4 +1,2 @@
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on advanced math libraries
 - 💬 Ask me about ML Math
 - 📫 How to reach me: email me swapnilsharmadhoni@gmail.com
